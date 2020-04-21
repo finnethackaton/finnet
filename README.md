@@ -2,6 +2,7 @@
 
 ЗАДАЧА:<br>
 Дан граф анонимизированный граф транзакций между юридическими лицами России.<br><br>
+https://drive.google.com/drive/folders/1NahA7Aw0CwMIMrS8cjeiaOH8FzxocxHu?usp=sharing <br><br>
 В файле vertices.csv информация о юридических лицах<br>
 id - id юридического лица <br>
 main_okved - основной ОКВЭД юридического лица (https://ru.wikipedia.org/wiki/Общероссийский_классификатор_видов_экономической_деятельности) <br>
