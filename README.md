@@ -3,7 +3,7 @@
 Дан анонимизированный граф транзакций между юридическими лицами России. Из него была удалена часть рёбер. Ваша задача восстановить их.<br>
 В данном репозитории можно найти baseline решение: https://github.com/finnethackaton/finnet<br><br>
 ## Формат входных данных
-Набор данных доступен по ссылке: https://drive.google.com/drive/folders/1NahA7Aw0CwMIMrS8cjeiaOH8 <br>
+Набор данных доступен по ссылке: https://drive.google.com/drive/folders/1NahA7Aw0CwMIMrS8cjeiaOH8FzxocxHu?usp=sharing <br>
 Файл vertices.csv содержит информацию о юридических лицах:<br>
 • id — id юридического лица;<br>
 • main_okved — основной ОКВЭД юридического лица;<br>
